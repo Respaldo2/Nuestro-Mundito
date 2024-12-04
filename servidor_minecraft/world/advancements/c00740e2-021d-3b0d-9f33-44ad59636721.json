@@ -3122,6 +3122,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "pillager_outpost": "2024-09-09 04:22:35 +0000",
+      "swamp_hut": "2024-12-04 17:46:30 +0000",
       "illager_camp": "2024-09-09 04:04:12 +0000"
     },
     "done": false

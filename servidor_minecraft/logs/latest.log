@@ -1801,3 +1801,4 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [04Dec2024 17:18:16.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 9.898231600940107,0.0,-1.7957858504073556
 [04Dec2024 17:18:17.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
 [04Dec2024 17:23:00.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 0.36647936028862205,-7.0,-14.990854831032266
+[04Dec2024 17:46:06.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!

@@ -16184,3 +16184,52 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [04Dec2024 17:32:30.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 17:37:30.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 17:37:30.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 17:42:30.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 17:42:30.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 17:44:01.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[04Dec2024 17:44:01.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_0
+[04Dec2024 17:44:01.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_elite_0
+[04Dec2024 17:44:01.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_tower_1
+[04Dec2024 17:44:01.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_14
+[04Dec2024 17:44:01.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_4
+[04Dec2024 17:44:01.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_2
+[04Dec2024 17:44:01.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_tower_0
+[04Dec2024 17:44:01.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_16
+[04Dec2024 17:44:01.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_22
+[04Dec2024 17:44:01.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_12
+[04Dec2024 17:44:01.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_10
+[04Dec2024 17:44:01.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_spider_1
+[04Dec2024 17:44:01.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_9
+[04Dec2024 17:44:01.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_7
+[04Dec2024 17:44:01.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_3
+[04Dec2024 17:44:01.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_1
+[04Dec2024 17:44:01.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_5
+[04Dec2024 17:44:01.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_exterior_1
+[04Dec2024 17:44:01.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_library_0
+[04Dec2024 17:44:02.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_15
+[04Dec2024 17:44:02.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_exterior_0
+[04Dec2024 17:44:02.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_25
+[04Dec2024 17:44:02.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_23
+[04Dec2024 17:44:02.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_21
+[04Dec2024 17:44:02.219] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_19
+[04Dec2024 17:44:02.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_1
+[04Dec2024 17:44:02.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_17
+[04Dec2024 17:44:02.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_11
+[04Dec2024 17:44:02.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_6
+[04Dec2024 17:44:02.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_8
+[04Dec2024 17:44:02.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_2
+[04Dec2024 17:44:02.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_0
+[04Dec2024 17:44:02.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_spider_0
+[04Dec2024 17:44:02.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_24
+[04Dec2024 17:44:02.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_18
+[04Dec2024 17:44:02.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_26
+[04Dec2024 17:44:02.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_20
+[04Dec2024 17:44:02.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_axe_illusion_2
+[04Dec2024 17:44:02.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_crossbow_illusion_1
+[04Dec2024 17:44:02.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_illusion_0
+[04Dec2024 17:44:03.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_06
+[04Dec2024 17:44:08.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[04Dec2024 17:44:08.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1
+[04Dec2024 17:46:06.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[04Dec2024 17:47:30.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 17:47:30.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
