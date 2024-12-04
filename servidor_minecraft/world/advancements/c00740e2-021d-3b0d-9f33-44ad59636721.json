@@ -13545,5 +13545,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_deepslate_brick_slab": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2024-12-04 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2024-12-04 16:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2024-12-04 16:46:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
