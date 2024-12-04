@@ -13546,6 +13546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-04 17:24:50 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/haunted_house": {
     "criteria": {
       "haunted_house": "2024-12-04 17:14:10 +0000"
