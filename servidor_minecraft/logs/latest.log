@@ -1758,3 +1758,46 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [04Dec2024 16:14:29.168] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
 [04Dec2024 16:25:45.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel fell from a high place
 [04Dec2024 16:25:45.436] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[04Dec2024 17:03:19.459] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[04Dec2024 17:03:19.460] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[04Dec2024 17:03:44.149] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[04Dec2024 17:03:44.980] [Server thread/INFO] [naturescompass/]: Search succeeded: 2499 radius, 2803 samples
+[04Dec2024 17:05:16.506] [Worker-Main-55/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[04Dec2024 17:07:21.093] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 17:07:45.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 17:08:20.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Sea Serpent
+[04Dec2024 17:08:20.395] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[04Dec2024 17:08:57.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 17:08:57.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 17:09:01.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Sea Serpent
+[04Dec2024 17:09:01.838] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[04Dec2024 17:11:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [A Mob in Your Pocket]
+[04Dec2024 17:11:37.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Hanging Tree]
+[04Dec2024 17:11:47.977] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=36, z=50}
+[04Dec2024 17:11:47.979] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=40, z=58}
+[04Dec2024 17:11:47.979] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=44, z=61}
+[04Dec2024 17:11:47.979] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=42, z=60}
+[04Dec2024 17:11:47.980] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=38, z=55}
+[04Dec2024 17:11:47.980] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=37, z=54}
+[04Dec2024 17:11:47.980] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=40, z=53}
+[04Dec2024 17:11:47.981] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=43, z=54}
+[04Dec2024 17:11:47.981] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=36, z=46}
+[04Dec2024 17:11:47.981] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=32, y=34, z=46}
+[04Dec2024 17:11:47.982] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=32, y=35, z=46}
+[04Dec2024 17:11:47.982] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=36, z=46}
+[04Dec2024 17:11:48.136] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=40, y=39, z=46}
+[04Dec2024 17:12:00.006] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=40, z=64}
+[04Dec2024 17:12:00.007] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=30, y=37, z=68}
+[04Dec2024 17:12:00.007] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=35, z=68}
+[04Dec2024 17:12:00.007] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=50, z=68}
+[04Dec2024 17:12:00.423] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=43, z=68}
+[04Dec2024 17:12:00.424] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=40, y=45, z=68}
+[04Dec2024 17:12:00.424] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=39, y=49, z=68}
+[04Dec2024 17:12:32.916] [Worker-Main-55/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.976655f,range:8,source:{pos:[I;-242,-20,603],type:"minecraft:block"}}]
+[04Dec2024 17:13:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was shot by Stymphalian Bird
+[04Dec2024 17:13:04.197] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[04Dec2024 17:14:10.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Invitation to the Tea Party]
+[04Dec2024 17:18:14.131] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=2475, y=80, z=3771}
+[04Dec2024 17:18:16.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 9.898231600940107,0.0,-1.7957858504073556
+[04Dec2024 17:18:17.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[04Dec2024 17:23:00.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 0.36647936028862205,-7.0,-14.990854831032266
