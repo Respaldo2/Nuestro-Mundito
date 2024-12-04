@@ -13461,27 +13461,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2024-12-04 03:48:51 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
     "criteria": {
       "forge:dyes/magenta": "2024-12-04 03:46:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-04 03:48:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-04 03:48:51 +0000"
     },
     "done": true
   },
@@ -13497,15 +13479,9 @@
     },
     "done": true
   },
-  "mahoutsukai:root": {
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
-      "mahoutsukai": "2024-12-04 03:52:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-04 03:48:51 +0000"
+      "has_needed_dye": "2024-12-04 03:46:47 +0000"
     },
     "done": true
   },
@@ -13515,15 +13491,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+  "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
-      "has_needed_dye": "2024-12-04 03:46:47 +0000"
+      "has_purple_dye": "2024-12-04 03:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-04 03:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-04 03:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-04 03:48:51 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
     "criteria": {
       "forge:dyes/purple": "2024-12-04 03:48:51 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2024-12-04 03:52:18 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2024-12-04 04:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-04 04:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-04 04:07:53 +0000"
     },
     "done": true
   },
