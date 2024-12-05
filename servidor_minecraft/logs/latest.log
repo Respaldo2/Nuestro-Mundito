@@ -1819,3 +1819,5 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [05Dec2024 23:25:54.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1287, y=286, z=4140} BlockPos{x=-1287, y=284, z=4140}
 [05Dec2024 23:25:54.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1287, y=286, z=4140} BlockPos{x=-1287, y=284, z=4140}
 [05Dec2024 23:27:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Vanishing]
+[05Dec2024 23:27:28.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[05Dec2024 23:29:39.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28707, l='ServerLevel[world]', x=-380.82, y=100.00, z=4205.46] died, message: 'Namikaze caught Unemployed in sculk'

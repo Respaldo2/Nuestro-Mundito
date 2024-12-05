@@ -14558,6 +14558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-05 23:31:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/trade_grave_guardian": {
     "criteria": {
       "coded_trigger": "2024-12-05 23:21:25 +0000"
@@ -14567,6 +14573,12 @@
   "born_in_chaos_v1:pieceof_chaos": {
     "criteria": {
       "pieceof_chaos_0": "2024-12-05 23:10:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 23:27:09 +0000"
     },
     "done": true
   },
