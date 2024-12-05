@@ -1810,3 +1810,12 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [05Dec2024 22:47:03.593] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [05Dec2024 23:02:18.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Captain Darla'/23252, l='ServerLevel[world]', x=-1265.32, y=298.01, z=4178.15] died: Captain Darla hit the ground too hard
 [05Dec2024 23:10:18.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Piece of Chaos]
+[05Dec2024 23:18:16.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[05Dec2024 23:21:25.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Bargaining with Death]
+[05Dec2024 23:25:54.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1287, y=286, z=4140} BlockPos{x=-1287, y=284, z=4140}
+[05Dec2024 23:25:54.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1287, y=286, z=4140} BlockPos{x=-1287, y=284, z=4140}
+[05Dec2024 23:25:54.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1287, y=286, z=4140} BlockPos{x=-1287, y=284, z=4140}
+[05Dec2024 23:25:54.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1287, y=286, z=4140} BlockPos{x=-1287, y=284, z=4140}
+[05Dec2024 23:25:54.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1287, y=286, z=4140} BlockPos{x=-1287, y=284, z=4140}
+[05Dec2024 23:25:54.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1287, y=286, z=4140} BlockPos{x=-1287, y=284, z=4140}
+[05Dec2024 23:27:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Vanishing]
