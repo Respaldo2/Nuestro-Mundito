@@ -1786,3 +1786,23 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [05Dec2024 22:31:23.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Strange Encounter]
 [05Dec2024 22:31:48.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
 [05Dec2024 22:31:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[05Dec2024 22:38:04.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Nightmare Stalker
+[05Dec2024 22:38:05.030] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 22:38:14.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Dec2024 22:38:16.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Nightmare Stalker
+[05Dec2024 22:38:16.103] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 22:39:51.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Melody the Really Cool'/15421, l='ServerLevel[world]', x=-533.25, y=245.00, z=4535.51] died: Melody the Really Cool was slain by Namikaze
+[05Dec2024 22:41:58.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[05Dec2024 22:42:28.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Nightmare Stalker
+[05Dec2024 22:42:28.895] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 22:43:38.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Miranda the Burger Chef
+[05Dec2024 22:43:38.052] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 22:43:55.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Miranda the Burger Chef
+[05Dec2024 22:43:55.118] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 22:44:02.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05Dec2024 22:44:20.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Miranda the Burger Chef
+[05Dec2024 22:44:20.097] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 22:44:37.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Miranda the Burger Chef
+[05Dec2024 22:44:37.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[05Dec2024 22:44:37.237] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 22:44:47.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Miranda the Burger Chef'/20151, l='ServerLevel[world]', x=-628.03, y=243.00, z=4567.45] died: Miranda the Burger Chef was slain by Namikaze
