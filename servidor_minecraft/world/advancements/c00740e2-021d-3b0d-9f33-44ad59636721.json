@@ -13607,15 +13607,21 @@
     },
     "done": false
   },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 03:01:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/trade_grave_guardian": {
     "criteria": {
       "coded_trigger": "2024-12-05 03:02:32 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/talk_grave_guardian": {
+  "create:recipes/building_blocks/small_deepslate_brick_slab_recycling": {
     "criteria": {
-      "coded_trigger": "2024-12-05 03:01:35 +0000"
+      "has_small_deepslate_brick_slab": "2024-12-05 22:22:19 +0000"
     },
     "done": true
   },
