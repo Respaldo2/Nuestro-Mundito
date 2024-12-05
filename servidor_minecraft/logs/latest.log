@@ -1761,3 +1761,28 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [05Dec2024 22:10:33.722] [Server thread/INFO] [Jade/]: Syncing config to Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721)
 [05Dec2024 22:10:33.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
 [05Dec2024 22:11:10.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21865ms or 437 ticks behind
+[05Dec2024 22:26:29.925] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'born_in_chaos_v1:trickor_treat' in progress file ./world/advancements/587b6240-39f1-3105-8383-bf74c073b79b.json - it doesn't exist anymore?
+[05Dec2024 22:26:29.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:45433] logged in with entity id 8502 at (-1282.9278130322214, 285.0, 4179.699999988079)
+[05Dec2024 22:26:29.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[05Dec2024 22:26:29.959] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[05Dec2024 22:26:29.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[05Dec2024 22:26:29.965] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[05Dec2024 22:26:29.968] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[05Dec2024 22:26:29.979] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[05Dec2024 22:26:29.980] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[05Dec2024 22:26:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[05Dec2024 22:26:30.114] [Server thread/INFO] [Jade/]: Syncing config to Namikaze (587b6240-39f1-3105-8383-bf74c073b79b)
+[05Dec2024 22:26:30.817] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eeeabsmobs:crit_chance'
+[05Dec2024 22:26:31.280] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eeeabsmobs:crit_chance'
+[05Dec2024 22:26:31.281] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'eeeabsmobs:crit_chance'
+[05Dec2024 22:26:33.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[05Dec2024 22:26:51.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3376ms or 67 ticks behind
+[05Dec2024 22:28:00.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[05Dec2024 22:28:17.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
+[05Dec2024 22:29:44.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[05Dec2024 22:30:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was pummeled by Darkgospel
+[05Dec2024 22:30:38.184] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 22:30:43.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[05Dec2024 22:31:23.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Strange Encounter]
+[05Dec2024 22:31:48.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[05Dec2024 22:31:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
