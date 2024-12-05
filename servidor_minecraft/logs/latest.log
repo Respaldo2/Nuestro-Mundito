@@ -1808,3 +1808,4 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [05Dec2024 22:44:47.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Miranda the Burger Chef'/20151, l='ServerLevel[world]', x=-628.03, y=243.00, z=4567.45] died: Miranda the Burger Chef was slain by Namikaze
 [05Dec2024 22:47:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Decrepit Skeleton
 [05Dec2024 22:47:03.593] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[05Dec2024 23:02:18.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Captain Darla'/23252, l='ServerLevel[world]', x=-1265.32, y=298.01, z=4178.15] died: Captain Darla hit the ground too hard
