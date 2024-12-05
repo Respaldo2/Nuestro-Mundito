@@ -14558,6 +14558,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-12-05 23:10:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
       "coded_trigger": "2024-12-05 22:31:23 +0000"
