@@ -1760,3 +1760,5 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [05Dec2024 02:51:29.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Set own game mode to Survival Mode]
 [05Dec2024 02:54:41.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was blown up by Creeper
 [05Dec2024 02:54:41.552] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[05Dec2024 03:01:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Strange Encounter]
+[05Dec2024 03:02:32.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Bargaining with Death]

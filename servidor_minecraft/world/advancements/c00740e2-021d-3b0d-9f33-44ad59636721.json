@@ -13607,5 +13607,17 @@
     },
     "done": false
   },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 03:02:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 03:01:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
