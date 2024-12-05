@@ -1762,3 +1762,7 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [05Dec2024 02:54:41.552] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
 [05Dec2024 03:01:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Strange Encounter]
 [05Dec2024 03:02:32.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Bargaining with Death]
+[05Dec2024 03:16:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Forest Mojo
+[05Dec2024 03:16:09.545] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[05Dec2024 03:17:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie Lumberjack
+[05Dec2024 03:17:02.395] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved

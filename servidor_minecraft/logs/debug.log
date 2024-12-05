@@ -15607,3 +15607,140 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [05Dec2024 03:02:32.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Bargaining with Death]
 [05Dec2024 03:02:58.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 03:02:58.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:07:58.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:07:58.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:09:00.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[05Dec2024 03:09:01.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[05Dec2024 03:09:04.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[05Dec2024 03:09:07.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[05Dec2024 03:09:07.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[05Dec2024 03:09:07.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[05Dec2024 03:09:07.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[05Dec2024 03:09:07.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[05Dec2024 03:09:28.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[05Dec2024 03:09:50.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[05Dec2024 03:10:06.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_house
+[05Dec2024 03:10:06.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_stairs
+[05Dec2024 03:10:06.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_stairs_2
+[05Dec2024 03:10:06.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_20
+[05Dec2024 03:10:06.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_7
+[05Dec2024 03:10:06.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_3
+[05Dec2024 03:10:06.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_mob_fail
+[05Dec2024 03:10:06.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_creeper
+[05Dec2024 03:10:06.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_5
+[05Dec2024 03:10:06.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_zombie
+[05Dec2024 03:10:06.939] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_16
+[05Dec2024 03:10:06.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_stairs_4
+[05Dec2024 03:10:06.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_4
+[05Dec2024 03:10:06.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_stairs_3
+[05Dec2024 03:10:06.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_13
+[05Dec2024 03:10:06.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_8
+[05Dec2024 03:10:06.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_10
+[05Dec2024 03:10:06.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_stairs_1
+[05Dec2024 03:10:06.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_skeleton
+[05Dec2024 03:10:06.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_17
+[05Dec2024 03:10:06.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_mobs/creeping_crypit_spider
+[05Dec2024 03:10:06.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_fail_2
+[05Dec2024 03:10:06.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_rooms/creeping_crypit_room_fail_1
+[05Dec2024 03:10:07.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[05Dec2024 03:10:07.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[05Dec2024 03:10:07.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[05Dec2024 03:10:07.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[05Dec2024 03:10:09.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[05Dec2024 03:10:09.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[05Dec2024 03:10:09.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[05Dec2024 03:10:09.094] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[05Dec2024 03:10:09.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[05Dec2024 03:10:19.703] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.703] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.704] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.705] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.706] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mss-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.706] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.706] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.711] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.711] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Dec2024 03:10:19.718] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.718] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.719] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.719] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.719] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.719] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.719] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.719] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.719] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.719] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.720] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.720] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:19.720] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Dec2024 03:10:20.196] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[05Dec2024 03:10:20.211] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Dec2024 03:10:20.218] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Dec2024 03:10:20.219] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[05Dec2024 03:10:20.514] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of plenty_of_golems:the_first_of_sand_ruins
+[05Dec2024 03:10:20.654] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of plenty_of_golems:ancientofprismarine_ruins
+[05Dec2024 03:10:27.835] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[05Dec2024 03:10:27.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[05Dec2024 03:10:27.859] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[05Dec2024 03:11:06.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[05Dec2024 03:12:02.075] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[05Dec2024 03:12:58.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:12:58.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:13:28.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[05Dec2024 03:13:28.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[05Dec2024 03:13:29.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[05Dec2024 03:13:31.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[05Dec2024 03:13:31.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_10b
+[05Dec2024 03:14:16.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[05Dec2024 03:14:16.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_0
+[05Dec2024 03:14:16.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_elite_0
+[05Dec2024 03:14:16.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_tower_1
+[05Dec2024 03:14:16.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_14
+[05Dec2024 03:14:16.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_4
+[05Dec2024 03:14:16.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_2
+[05Dec2024 03:14:16.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_tower_0
+[05Dec2024 03:14:17.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_16
+[05Dec2024 03:14:17.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_22
+[05Dec2024 03:14:17.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_12
+[05Dec2024 03:14:17.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_10
+[05Dec2024 03:14:17.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_spider_1
+[05Dec2024 03:14:17.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_9
+[05Dec2024 03:14:17.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_7
+[05Dec2024 03:14:17.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_3
+[05Dec2024 03:14:17.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_1
+[05Dec2024 03:14:17.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_5
+[05Dec2024 03:14:17.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_exterior_1
+[05Dec2024 03:14:17.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_library_0
+[05Dec2024 03:14:17.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_15
+[05Dec2024 03:14:17.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_exterior_0
+[05Dec2024 03:14:17.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_25
+[05Dec2024 03:14:17.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_23
+[05Dec2024 03:14:17.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_21
+[05Dec2024 03:14:17.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_19
+[05Dec2024 03:14:17.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_1
+[05Dec2024 03:14:17.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_17
+[05Dec2024 03:14:17.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_11
+[05Dec2024 03:14:17.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_6
+[05Dec2024 03:14:17.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_8
+[05Dec2024 03:14:17.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_2
+[05Dec2024 03:14:18.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_0
+[05Dec2024 03:14:18.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_spider_0
+[05Dec2024 03:14:18.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_24
+[05Dec2024 03:14:18.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_18
+[05Dec2024 03:14:18.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_26
+[05Dec2024 03:14:18.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_20
+[05Dec2024 03:14:18.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_axe_illusion_2
+[05Dec2024 03:14:18.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_crossbow_illusion_1
+[05Dec2024 03:14:18.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_skeleton_illusion_0
+[05Dec2024 03:14:19.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[05Dec2024 03:14:19.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_06
+[05Dec2024 03:14:23.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[05Dec2024 03:14:23.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1
+[05Dec2024 03:16:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Forest Mojo
+[05Dec2024 03:16:09.537] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2110, y:19, z:8750, dim:minecraft:overworld]
+[05Dec2024 03:16:09.545] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[05Dec2024 03:16:11.076] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[05Dec2024 03:17:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie Lumberjack
+[05Dec2024 03:17:02.381] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2160, y:38, z:8802, dim:minecraft:overworld]
+[05Dec2024 03:17:02.395] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[05Dec2024 03:17:04.985] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
