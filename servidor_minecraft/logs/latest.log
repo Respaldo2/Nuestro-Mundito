@@ -1764,3 +1764,7 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [06Dec2024 01:42:45.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10794ms or 215 ticks behind
 [06Dec2024 01:46:14.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was blown up by Creeper
 [06Dec2024 01:46:14.885] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[06Dec2024 01:57:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Nightmare Stalker
+[06Dec2024 01:57:20.333] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[06Dec2024 01:57:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Nightmare Stalker
+[06Dec2024 01:57:42.115] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved

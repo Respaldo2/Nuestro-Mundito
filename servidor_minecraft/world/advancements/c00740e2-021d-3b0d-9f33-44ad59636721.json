@@ -13627,75 +13627,87 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 01:46:50 +0000"
+      "log_spam_fixer": "2024-12-06 01:56:50 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2024-12-06 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2024-12-06 01:49:25 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/christmas": {
     "criteria": {
@@ -13706,6 +13718,30 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-06 01:42:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2024-12-06 01:49:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2024-12-06 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2024-12-06 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2024-12-06 01:49:25 +0000"
     },
     "done": true
   },

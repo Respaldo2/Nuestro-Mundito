@@ -15457,3 +15457,16 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [06Dec2024 01:46:50.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 01:48:02.329] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@670107b6 for service interface com.blamejared.clumps.platform.IEventHelper
 [06Dec2024 01:48:02.329] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@4322c607 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[06Dec2024 01:51:50.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:51:50.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:56:50.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 01:56:50.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 01:57:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Nightmare Stalker
+[06Dec2024 01:57:20.292] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:-579, y:62, z:4523, dim:minecraft:overworld]
+[06Dec2024 01:57:20.333] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[06Dec2024 01:57:22.019] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[06Dec2024 01:57:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Nightmare Stalker
+[06Dec2024 01:57:42.085] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:-581, y:62, z:4521, dim:minecraft:overworld]
+[06Dec2024 01:57:42.115] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[06Dec2024 01:57:43.746] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[06Dec2024 01:57:47.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
