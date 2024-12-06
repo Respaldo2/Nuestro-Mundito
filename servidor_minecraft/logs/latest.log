@@ -1768,3 +1768,68 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [06Dec2024 01:57:20.333] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
 [06Dec2024 01:57:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Nightmare Stalker
 [06Dec2024 01:57:42.115] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[06Dec2024 02:21:35.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:33695] logged in with entity id 20950 at (-589.7776427194837, 71.0, 4283.435588568535)
+[06Dec2024 02:21:35.096] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[06Dec2024 02:21:35.103] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[06Dec2024 02:21:35.104] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[06Dec2024 02:21:35.105] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[06Dec2024 02:21:35.109] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[06Dec2024 02:21:35.115] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[06Dec2024 02:21:35.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[06Dec2024 02:21:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[06Dec2024 02:21:35.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Christmas]
+[06Dec2024 02:21:35.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Mysterious Gift]
+[06Dec2024 02:21:35.451] [Server thread/INFO] [Jade/]: Syncing config to Namikaze (587b6240-39f1-3105-8383-bf74c073b79b)
+[06Dec2024 02:23:17.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [The treasure is at hand]
+[06Dec2024 02:23:17.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! 9.453751651210155,-1.8232407249357578,3.5334937256920966
+[06Dec2024 02:23:17.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12935ms or 258 ticks behind
+[06Dec2024 02:24:33.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[06Dec2024 02:24:33.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[06Dec2024 02:24:33.220] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Dec2024 02:25:51.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:53825] logged in with entity id 22972 at (-570.8462183664323, 63.0, 4487.359862927457)
+[06Dec2024 02:25:51.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[06Dec2024 02:25:51.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[06Dec2024 02:25:51.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[06Dec2024 02:25:51.180] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[06Dec2024 02:25:51.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[06Dec2024 02:25:51.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[06Dec2024 02:25:51.194] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[06Dec2024 02:25:51.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[06Dec2024 02:25:51.427] [Server thread/INFO] [Jade/]: Syncing config to Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721)
+[06Dec2024 02:25:56.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[06Dec2024 02:27:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Become a Mahou Tsukai!]
+[06Dec2024 02:28:36.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Timed out
+[06Dec2024 02:28:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[06Dec2024 02:29:01.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:41247] logged in with entity id 24371 at (-572.5367250038179, 63.0, 4499.144720171916)
+[06Dec2024 02:29:01.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[06Dec2024 02:29:01.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[06Dec2024 02:29:01.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[06Dec2024 02:29:01.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[06Dec2024 02:29:01.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[06Dec2024 02:29:01.876] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[06Dec2024 02:29:01.877] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[06Dec2024 02:29:01.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[06Dec2024 02:29:02.147] [Server thread/INFO] [Jade/]: Syncing config to Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721)
+[06Dec2024 02:29:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[06Dec2024 02:30:10.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06Dec2024 02:30:17.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Nightmare Stalker
+[06Dec2024 02:30:17.710] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[06Dec2024 02:30:26.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Nightmare Stalker
+[06Dec2024 02:30:26.135] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[06Dec2024 02:30:27.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[06Dec2024 02:30:46.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
+[06Dec2024 02:30:52.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart ruptured
+[06Dec2024 02:30:52.202] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[06Dec2024 02:31:04.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was pummeled by Darkgospel
+[06Dec2024 02:31:04.351] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[06Dec2024 02:31:12.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[06Dec2024 02:33:26.873] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Dec2024 02:33:26.875] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Dec2024 02:33:26.876] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Dec2024 02:33:29.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8126ms or 162 ticks behind
+[06Dec2024 02:33:58.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13403ms or 268 ticks behind
+[06Dec2024 02:34:12.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -0.7660138909941452,1.1843999958038012,10.000218148592467
+[06Dec2024 02:34:27.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14023ms or 280 ticks behind
+[06Dec2024 02:37:45.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[06Dec2024 02:37:46.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[06Dec2024 02:37:46.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!

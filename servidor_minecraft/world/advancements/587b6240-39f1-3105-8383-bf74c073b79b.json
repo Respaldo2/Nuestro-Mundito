@@ -14558,27 +14558,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_lost_tablet": {
+  "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
-      "has_lost_tablet": "2024-12-05 23:56:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_fishing_rod": {
-    "criteria": {
-      "has_fishing_rod": "2024-12-05 23:52:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2024-12-05 23:31:50 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/trade_grave_guardian": {
-    "criteria": {
-      "coded_trigger": "2024-12-05 23:21:25 +0000"
+      "coded_trigger": "2024-12-05 22:31:23 +0000"
     },
     "done": true
   },
@@ -14588,9 +14570,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 23:21:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/vanishing": {
     "criteria": {
       "coded_trigger": "2024-12-05 23:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-05 23:31:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-05 23:52:14 +0000"
     },
     "done": true
   },
@@ -14606,9 +14606,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/talk_grave_guardian": {
+  "tombstone:adventure/find_lost_tablet": {
     "criteria": {
-      "coded_trigger": "2024-12-05 22:31:23 +0000"
+      "has_lost_tablet": "2024-12-05 23:56:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet_treasure": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2024-12-06 02:27:13 +0000"
     },
     "done": true
   },

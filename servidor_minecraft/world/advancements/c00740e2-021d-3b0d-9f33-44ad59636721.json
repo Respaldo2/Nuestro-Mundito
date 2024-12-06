@@ -13625,18 +13625,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_brick_stairs": {
-    "criteria": {
-      "has_cut_deepslate_bricks": "2024-12-06 01:49:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
-    "criteria": {
-      "has_polished_cut_deepslate": "2024-12-06 01:49:25 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-06 01:42:18 +0000"
@@ -13649,9 +13637,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs": {
     "criteria": {
-      "has_polished_cut_deepslate": "2024-12-06 01:49:25 +0000"
+      "has_cut_deepslate_bricks": "2024-12-06 01:49:08 +0000"
     },
     "done": true
   },
@@ -13664,6 +13652,18 @@
   "create:recipes/building_blocks/cut_deepslate_brick_wall": {
     "criteria": {
       "has_cut_deepslate_bricks": "2024-12-06 01:49:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2024-12-06 01:49:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2024-12-06 01:49:25 +0000"
     },
     "done": true
   },
