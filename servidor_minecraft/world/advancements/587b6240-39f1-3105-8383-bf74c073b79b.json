@@ -179,6 +179,7 @@
       "minecraft:frozen_peaks": "2024-10-01 23:12:13 +0000",
       "minecraft:old_growth_birch_forest": "2024-09-13 00:29:20 +0000",
       "minecraft:deep_dark": "2024-09-10 02:03:16 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-06 03:21:36 +0000",
       "minecraft:plains": "2024-09-09 04:15:14 +0000"
     },
     "done": false
@@ -1440,6 +1441,7 @@
       "minecraft:witch": "2024-09-09 03:48:44 +0000",
       "minecraft:wither_skeleton": "2024-09-13 03:45:48 +0000",
       "minecraft:husk": "2024-09-12 05:08:53 +0000",
+      "minecraft:shulker": "2024-12-06 04:17:31 +0000",
       "minecraft:cave_spider": "2024-09-08 23:54:39 +0000",
       "quark:wraith": "2024-11-03 00:59:00 +0000",
       "minecraft:piglin": "2024-10-01 03:39:00 +0000",
@@ -14618,21 +14620,478 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_lost_tablet_treasure": {
-    "criteria": {
-      "coded_trigger": "2024-12-06 02:23:17 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-06 02:21:35 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/find_lost_tablet_treasure": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 02:23:17 +0000"
+    },
+    "done": true
+  },
   "mahoutsukai:root": {
     "criteria": {
       "mahoutsukai": "2024-12-06 02:27:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lost_tablet": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-06 02:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-06 03:24:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2024-12-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop2": "2024-12-06 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/cloud_save": {
+    "criteria": {
+      "requirement": "2024-12-06 03:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2024-12-06 03:28:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:29:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sharanga": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:33:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sharanga": {
+    "criteria": {
+      "requirement2": "2024-12-06 03:33:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2024-12-06 03:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-06 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-06 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2024-12-06 03:46:53 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod_end": {
+    "criteria": {
+      "gobber2_rod_end": "2024-12-06 03:47:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2024-12-06 03:48:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-12-06 03:48:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2024-12-06 03:50:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2024-12-06 03:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "kill_dragon": "2024-12-06 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/tamaris": {
+    "criteria": {
+      "requirement": "2024-12-06 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_tamaris": {
+    "criteria": {
+      "requirement": "2024-12-06 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/crest_of_the_end": {
+    "criteria": {
+      "requirement": "2024-12-06 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/trinkets/unlock_crest_of_the_end": {
+    "criteria": {
+      "requirement": "2024-12-06 03:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-06 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/beam_me_up": {
+    "criteria": {
+      "criteria": "2024-12-06 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2024-12-06 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement2": "2024-12-06 04:11:13 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement2": "2024-12-06 04:11:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-06 04:11:16 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/frigid_harvester": {
+    "criteria": {
+      "requirement2": "2024-12-06 04:12:26 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_frigid_harvester": {
+    "criteria": {
+      "requirement2": "2024-12-06 04:12:26 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "frosted_hills": "2024-12-06 04:12:26 +0000",
+      "ender_waste": "2024-12-06 04:30:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-06 04:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-06 04:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-06 04:13:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement": "2024-12-06 04:13:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement": "2024-12-06 04:13:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
+    "criteria": {
+      "requirement3": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/ancient_armor": {
+    "criteria": {
+      "requirement3": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/zephyr": {
+    "criteria": {
+      "requirement": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_zephyr": {
+    "criteria": {
+      "requirement": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_hallowed_armor": {
+    "criteria": {
+      "requirement3": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/hallowed_armor": {
+    "criteria": {
+      "requirement3": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-06 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/defeat_shulker": {
+    "criteria": {
+      "defeat_shulkers": "2024-12-06 04:17:31 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/headhunter": {
+    "criteria": {
+      "51": "2024-12-06 04:20:57 +0000"
+    },
+    "done": false
+  },
+  "stellarity:end_city/treasure_room": {
+    "criteria": {
+      "obtain_head": "2024-12-06 04:20:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_axe_repairing": {
+    "criteria": {
+      "has_netherite_axe": "2024-12-07 17:02:17 +0000"
     },
     "done": true
   },
