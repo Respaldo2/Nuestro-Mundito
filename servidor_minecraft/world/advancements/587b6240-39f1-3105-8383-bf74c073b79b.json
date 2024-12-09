@@ -14983,7 +14983,8 @@
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
       "frosted_hills": "2024-12-06 04:12:26 +0000",
-      "ender_waste": "2024-12-06 04:30:57 +0000"
+      "ender_waste": "2024-12-06 04:30:57 +0000",
+      "sculk_growth": "2024-12-09 03:25:44 +0000"
     },
     "done": false
   },
@@ -15079,7 +15080,9 @@
   },
   "stellarity:end_city/headhunter": {
     "criteria": {
-      "51": "2024-12-06 04:20:57 +0000"
+      "45": "2024-12-09 03:21:52 +0000",
+      "51": "2024-12-06 04:20:57 +0000",
+      "53": "2024-12-09 03:22:19 +0000"
     },
     "done": false
   },
@@ -15092,6 +15095,84 @@
   "aether:recipes/tools/netherite_axe_repairing": {
     "criteria": {
       "has_netherite_axe": "2024-12-07 17:02:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 03:31:51 +0000"
+    },
+    "done": false
+  },
+  "stellarity:aota/pandoras_barrel/place": {
+    "criteria": {
+      "requirement": "2024-12-09 03:22:24 +0000"
     },
     "done": true
   },
