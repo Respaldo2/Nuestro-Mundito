@@ -1864,3 +1864,60 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [09Dec2024 03:32:22.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Endermite
 [09Dec2024 03:32:22.674] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
 [09Dec2024 03:32:58.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Enderman
+[09Dec2024 03:34:08.139] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:34:22.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart ruptured
+[09Dec2024 03:34:22.358] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:34:29.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[09Dec2024 03:34:31.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! 3.236598745127367,0.04353562014750878,-9.562166711178179
+[09Dec2024 03:34:36.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Enderman
+[09Dec2024 03:34:36.347] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:34:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:48.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[09Dec2024 03:34:50.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -0.6823167298712178,-11.19886200217772,-0.2854766360819667
+[09Dec2024 03:34:50.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:53.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:55.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:57.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:36:36.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Shulker
+[09Dec2024 03:36:36.627] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:36:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Shulker
+[09Dec2024 03:36:53.494] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:37:01.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[09Dec2024 03:37:10.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Namikaze
+[09Dec2024 03:37:10.856] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:37:25.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Shulker
+[09Dec2024 03:37:25.894] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:38:53.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart ruptured
+[09Dec2024 03:38:53.739] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:39:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:39:07.596] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:39:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:39:16.101] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:39:24.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[09Dec2024 03:39:25.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:39:25.106] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:39:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:39:34.199] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:40:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Shulker
+[09Dec2024 03:40:03.436] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:40:04.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Mimicube
+[09Dec2024 03:40:04.614] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:40:21.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Shulker
+[09Dec2024 03:40:21.691] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:40:31.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[09Dec2024 03:40:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Phantom
+[09Dec2024 03:40:56.740] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:42:05.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -8.908028901324542,15.635778524833285,1.1516554072945837
+[09Dec2024 03:42:12.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[09Dec2024 03:42:21.730] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[09Dec2024 03:42:25.619] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[09Dec2024 03:43:11.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Phantom
+[09Dec2024 03:43:11.872] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:43:14.270] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[09Dec2024 03:43:14.272] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[09Dec2024 03:43:21.368] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[09Dec2024 03:43:29.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart was ruptured by Enderman
+[09Dec2024 03:43:29.033] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:43:33.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind

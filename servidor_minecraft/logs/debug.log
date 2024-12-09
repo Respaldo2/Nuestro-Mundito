@@ -16894,3 +16894,250 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [09Dec2024 03:32:22.674] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
 [09Dec2024 03:32:23.883] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
 [09Dec2024 03:32:58.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Enderman
+[09Dec2024 03:34:08.129] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:1980, y:91, z:-3169, dim:minecraft:the_end]
+[09Dec2024 03:34:08.139] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:34:09.367] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[09Dec2024 03:34:22.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart ruptured
+[09Dec2024 03:34:22.334] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:1983, y:134, z:-3172, dim:minecraft:the_end]
+[09Dec2024 03:34:22.358] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:34:23.472] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/fat_tower_base
+[09Dec2024 03:34:23.477] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/fat_tower_middle
+[09Dec2024 03:34:23.479] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/second_roof
+[09Dec2024 03:34:23.490] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/fat_tower_top
+[09Dec2024 03:34:23.516] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:34:29.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[09Dec2024 03:34:31.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! 3.236598745127367,0.04353562014750878,-9.562166711178179
+[09Dec2024 03:34:36.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Enderman
+[09Dec2024 03:34:36.332] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:1995, y:92, z:-3252, dim:minecraft:the_end]
+[09Dec2024 03:34:36.347] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:34:37.782] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[09Dec2024 03:34:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:48.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[09Dec2024 03:34:50.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -0.6823167298712178,-11.19886200217772,-0.2854766360819667
+[09Dec2024 03:34:50.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:53.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:55.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:34:57.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[09Dec2024 03:35:31.190] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:campsite/2
+[09Dec2024 03:35:31.653] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:monster_box/3
+[09Dec2024 03:35:31.701] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:monster_box/1
+[09Dec2024 03:35:32.099] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:obsidian_spikes/2
+[09Dec2024 03:35:32.112] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:obsidian_spikes/3
+[09Dec2024 03:35:32.364] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:monster_box/4
+[09Dec2024 03:35:33.462] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:monster_box/2
+[09Dec2024 03:35:37.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:chapel
+[09Dec2024 03:35:39.802] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:end_shipwreck/base_plate/spawn
+[09Dec2024 03:36:36.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Shulker
+[09Dec2024 03:36:36.585] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2148, y:139, z:-3126, dim:minecraft:the_end]
+[09Dec2024 03:36:36.627] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:36:38.008] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:36:40.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[09Dec2024 03:36:43.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[09Dec2024 03:36:43.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[09Dec2024 03:36:43.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[09Dec2024 03:36:43.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[09Dec2024 03:36:43.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[09Dec2024 03:36:43.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[09Dec2024 03:36:43.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[09Dec2024 03:36:43.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[09Dec2024 03:36:43.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[09Dec2024 03:36:43.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[09Dec2024 03:36:43.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[09Dec2024 03:36:43.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[09Dec2024 03:36:43.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[09Dec2024 03:36:43.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[09Dec2024 03:36:43.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[09Dec2024 03:36:43.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[09Dec2024 03:36:43.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[09Dec2024 03:36:43.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[09Dec2024 03:36:43.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[09Dec2024 03:36:43.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[09Dec2024 03:36:43.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[09Dec2024 03:36:43.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[09Dec2024 03:36:43.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[09Dec2024 03:36:43.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[09Dec2024 03:36:43.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[09Dec2024 03:36:43.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[09Dec2024 03:36:43.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[09Dec2024 03:36:43.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[09Dec2024 03:36:43.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[09Dec2024 03:36:45.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:end_shipwreck/variants/upsidedown_whole
+[09Dec2024 03:36:45.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:return_gateway/default/warped
+[09Dec2024 03:36:53.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Shulker
+[09Dec2024 03:36:53.481] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2147, y:139, z:-3127, dim:minecraft:the_end]
+[09Dec2024 03:36:53.494] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:36:54.714] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:36:59.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:36:59.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 03:37:01.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[09Dec2024 03:37:10.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Namikaze
+[09Dec2024 03:37:10.846] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2153, y:143, z:-3126, dim:minecraft:the_end]
+[09Dec2024 03:37:10.856] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:37:12.800] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:37:25.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Shulker
+[09Dec2024 03:37:25.881] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:2148, y:143, z:-3131, dim:minecraft:the_end]
+[09Dec2024 03:37:25.894] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:37:27.165] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[09Dec2024 03:37:27.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[09Dec2024 03:37:30.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[09Dec2024 03:37:30.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[09Dec2024 03:37:30.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[09Dec2024 03:38:47.398] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:campsite/1
+[09Dec2024 03:38:50.811] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:return_gateway/default/mangrove
+[09Dec2024 03:38:50.816] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:return_gateway/default/crimson
+[09Dec2024 03:38:50.925] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:return_gateway/default/blackstone
+[09Dec2024 03:38:53.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart ruptured
+[09Dec2024 03:38:53.709] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2101, y:100, z:-3077, dim:minecraft:the_end]
+[09Dec2024 03:38:53.739] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:38:55.125] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:39:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:39:07.582] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2105, y:94, z:-3073, dim:minecraft:the_end]
+[09Dec2024 03:39:07.596] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:39:08.811] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:39:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:39:16.071] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2105, y:94, z:-3073, dim:minecraft:the_end]
+[09Dec2024 03:39:16.101] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:39:17.208] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:39:24.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[09Dec2024 03:39:24.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[09Dec2024 03:39:25.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:39:25.091] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2105, y:94, z:-3073, dim:minecraft:the_end]
+[09Dec2024 03:39:25.106] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:39:26.183] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:39:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:39:34.134] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2100, y:96, z:-3072, dim:minecraft:the_end]
+[09Dec2024 03:39:34.199] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:39:35.592] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:40:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Shulker
+[09Dec2024 03:40:03.430] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2099, y:139, z:-3173, dim:minecraft:the_end]
+[09Dec2024 03:40:03.436] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:40:04.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Mimicube
+[09Dec2024 03:40:04.595] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:2130, y:134, z:-3176, dim:minecraft:the_end]
+[09Dec2024 03:40:04.614] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:40:04.685] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:40:05.771] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[09Dec2024 03:40:21.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Shulker
+[09Dec2024 03:40:21.681] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2098, y:139, z:-3179, dim:minecraft:the_end]
+[09Dec2024 03:40:21.691] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:40:23.126] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:40:29.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[09Dec2024 03:40:29.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[09Dec2024 03:40:31.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[09Dec2024 03:40:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Phantom
+[09Dec2024 03:40:56.734] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:2122, y:137, z:-3188, dim:minecraft:the_end]
+[09Dec2024 03:40:56.740] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:40:57.998] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[09Dec2024 03:41:39.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/base_floor
+[09Dec2024 03:41:39.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/second_floor_1
+[09Dec2024 03:41:39.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/third_floor_1
+[09Dec2024 03:41:39.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/third_roof
+[09Dec2024 03:41:39.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/tower_base
+[09Dec2024 03:41:39.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/tower_piece
+[09Dec2024 03:41:39.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/fat_tower_base
+[09Dec2024 03:41:39.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/fat_tower_middle
+[09Dec2024 03:41:39.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/bridge_end
+[09Dec2024 03:41:39.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/bridge_piece
+[09Dec2024 03:41:39.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/second_floor_2
+[09Dec2024 03:41:39.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/second_roof
+[09Dec2024 03:41:39.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/bridge_steep_stairs
+[09Dec2024 03:41:39.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/base_roof
+[09Dec2024 03:41:39.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/bridge_gentle_stairs
+[09Dec2024 03:41:39.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/third_floor_2
+[09Dec2024 03:41:39.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/tower_top
+[09Dec2024 03:41:39.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:end_city/fat_tower_top
+[09Dec2024 03:42:05.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 03:42:05.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 03:42:05.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -8.908028901324542,15.635778524833285,1.1516554072945837
+[09Dec2024 03:42:07.160] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:obsidian_spikes/5
+[09Dec2024 03:42:08.152] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[09Dec2024 03:42:08.191] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[09Dec2024 03:42:08.227] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[09Dec2024 03:42:11.089] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[09Dec2024 03:42:11.600] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[09Dec2024 03:42:11.635] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[09Dec2024 03:42:11.659] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[09Dec2024 03:42:11.679] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[09Dec2024 03:42:11.765] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[09Dec2024 03:42:11.777] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[09Dec2024 03:42:11.799] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[09Dec2024 03:42:11.800] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[09Dec2024 03:42:12.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[09Dec2024 03:42:12.053] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[09Dec2024 03:42:12.488] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[09Dec2024 03:42:12.546] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[09Dec2024 03:42:12.644] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[09Dec2024 03:42:12.945] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[09Dec2024 03:42:12.988] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[09Dec2024 03:42:12.997] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[09Dec2024 03:42:13.013] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[09Dec2024 03:42:13.079] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[09Dec2024 03:42:13.227] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[09Dec2024 03:42:13.245] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[09Dec2024 03:42:13.251] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[09Dec2024 03:42:13.267] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[09Dec2024 03:42:13.278] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[09Dec2024 03:42:13.336] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[09Dec2024 03:42:13.457] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[09Dec2024 03:42:13.478] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[09Dec2024 03:42:13.716] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[09Dec2024 03:42:13.784] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[09Dec2024 03:42:21.730] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[09Dec2024 03:42:25.619] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:iron_boots/apotheosis:mythic/ABILITY/0.3!
+[09Dec2024 03:42:33.727] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:obsidian_spikes/1
+[09Dec2024 03:42:42.797] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:chapel
+[09Dec2024 03:42:44.590] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:return_gateway/default/blackstone
+[09Dec2024 03:42:44.596] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:return_gateway/default/crimson
+[09Dec2024 03:43:11.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Phantom
+[09Dec2024 03:43:11.857] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:2098, y:140, z:-3178, dim:minecraft:the_end]
+[09Dec2024 03:43:11.872] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:43:13.191] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[09Dec2024 03:43:14.270] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[09Dec2024 03:43:14.272] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[09Dec2024 03:43:18.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[09Dec2024 03:43:18.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[09Dec2024 03:43:18.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[09Dec2024 03:43:18.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[09Dec2024 03:43:18.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[09Dec2024 03:43:21.368] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[09Dec2024 03:43:29.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart was ruptured by Enderman
+[09Dec2024 03:43:29.005] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:2100, y:157, z:-3463, dim:minecraft:the_end]
+[09Dec2024 03:43:29.033] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:43:30.390] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[09Dec2024 03:43:33.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
+[09Dec2024 03:43:34.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[09Dec2024 03:43:35.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[09Dec2024 03:43:35.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[09Dec2024 03:43:35.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[09Dec2024 03:43:35.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[09Dec2024 03:43:35.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[09Dec2024 03:43:35.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[09Dec2024 03:43:35.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[09Dec2024 03:43:35.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[09Dec2024 03:43:35.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[09Dec2024 03:43:35.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[09Dec2024 03:43:35.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[09Dec2024 03:43:35.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[09Dec2024 03:43:35.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[09Dec2024 03:43:35.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[09Dec2024 03:43:35.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[09Dec2024 03:43:35.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[09Dec2024 03:43:35.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[09Dec2024 03:43:35.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[09Dec2024 03:43:35.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[09Dec2024 03:43:35.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[09Dec2024 03:43:35.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[09Dec2024 03:43:35.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[09Dec2024 03:43:35.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[09Dec2024 03:43:35.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[09Dec2024 03:43:35.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[09Dec2024 03:43:35.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[09Dec2024 03:43:35.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[09Dec2024 03:43:35.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[09Dec2024 03:43:37.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:end_shipwreck/base_plate/spawn
+[09Dec2024 03:43:37.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:end_shipwreck/variants/upsidedown_whole
+[09Dec2024 03:43:44.243] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:monster_box/1
+[09Dec2024 03:43:52.873] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:monster_box/2
+[09Dec2024 03:43:53.141] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:obsidian_spikes/5
+[09Dec2024 03:43:57.490] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of stellarity:monster_box/3

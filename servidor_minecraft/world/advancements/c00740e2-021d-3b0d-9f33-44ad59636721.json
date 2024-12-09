@@ -13948,6 +13948,7 @@
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
       "frosted_hills": "2024-12-06 04:10:42 +0000",
+      "ashfall_delta": "2024-12-09 03:41:48 +0000",
       "ender_waste": "2024-12-06 04:25:59 +0000",
       "sculk_growth": "2024-12-06 04:30:30 +0000"
     },
