@@ -15095,5 +15095,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/netherite_shovel_repairing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-12-09 03:21:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

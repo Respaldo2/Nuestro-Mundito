@@ -14145,6 +14145,12 @@
     },
     "done": true
   },
+  "stellarity:end_city/portable_storage": {
+    "criteria": {
+      "craft_shulker_box": "2024-12-09 03:14:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-09 03:07:31 +0000"

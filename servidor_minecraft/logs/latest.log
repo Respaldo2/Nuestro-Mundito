@@ -1798,3 +1798,44 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [09Dec2024 03:12:02.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
 [09Dec2024 03:12:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Shulker
 [09Dec2024 03:12:13.996] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:12:32.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[09Dec2024 03:12:40.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[09Dec2024 03:12:48.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[09Dec2024 03:12:53.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Dec2024 03:14:23.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[09Dec2024 03:14:28.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Portable Storage]
+[09Dec2024 03:15:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Mimicube
+[09Dec2024 03:15:46.304] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:16:08.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -0.5832171441493301,0.0,10.2334512511934
+[09Dec2024 03:17:10.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Enderman
+[09Dec2024 03:17:10.222] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:17:10.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[09Dec2024 03:17:15.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[09Dec2024 03:17:26.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was struck by lightning whilst fighting Stray
+[09Dec2024 03:17:26.908] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:17:35.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3444ms or 68 ticks behind
+[09Dec2024 03:17:43.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -4.663853137268916,16.646244012580894,4.117055283823447
+[09Dec2024 03:17:48.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Mimicube
+[09Dec2024 03:17:48.421] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:17:56.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5792ms or 115 ticks behind
+[09Dec2024 03:18:04.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Mimicube using [Laquisha's Streamlined Flatbow of the Predator]
+[09Dec2024 03:18:04.507] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:18:15.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[09Dec2024 03:19:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Shulker
+[09Dec2024 03:19:01.699] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:19:07.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart ruptured
+[09Dec2024 03:19:07.108] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:19:11.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[09Dec2024 03:20:14.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze withered away whilst fighting Wither Skeleton
+[09Dec2024 03:20:14.408] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:20:35.828] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[09Dec2024 03:21:00.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Mimicube
+[09Dec2024 03:21:00.206] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[09Dec2024 03:21:27.443] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:the_end at BlockPos{x=1647, y=189, z=-1539} as the loot table 'fokastudio:end/end_city/junk' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[09Dec2024 03:22:24.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Like a Box of Chocolates]
+[09Dec2024 03:22:37.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Enderman
+[09Dec2024 03:22:37.646] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:22:46.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[09Dec2024 03:22:50.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Enderman
+[09Dec2024 03:22:50.542] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[09Dec2024 03:23:05.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3854ms or 77 ticks behind
