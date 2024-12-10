@@ -16881,3 +16881,11 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [10Dec2024 19:29:09.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 19:29:09.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 19:29:48.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [2d485ec7-38c6-4981-ad21-ed33ec15d856]
+[10Dec2024 19:34:09.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 19:34:09.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 19:36:36.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Skeleton
+[10Dec2024 19:36:36.486] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:-680, y:62, z:4488, dim:minecraft:overworld]
+[10Dec2024 19:36:36.526] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[10Dec2024 19:36:38.033] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[10Dec2024 19:39:09.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 19:39:09.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
