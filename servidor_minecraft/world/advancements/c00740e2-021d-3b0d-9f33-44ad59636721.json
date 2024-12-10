@@ -14267,9 +14267,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
-      "has_deepslate_lapis_ore": "2024-12-10 03:06:23 +0000"
+      "has_upgrade_base": "2024-12-10 03:05:31 +0000"
     },
     "done": true
   },
@@ -14285,15 +14285,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2024-12-10 03:06:23 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
     "criteria": {
-      "has_upgrade_base": "2024-12-10 03:05:31 +0000"
+      "has_deepslate_lapis_ore": "2024-12-10 03:06:23 +0000"
     },
     "done": true
   },
