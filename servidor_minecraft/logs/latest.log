@@ -1790,3 +1790,4 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [10Dec2024 18:13:39.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Father Vincent the Extra-Fishy'/10073, l='ServerLevel[world]', x=-683.46, y=70.00, z=4272.76] died: Father Vincent the Extra-Fishy withered away
 [10Dec2024 18:13:44.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart was ruptured by Zombie
 [10Dec2024 18:13:44.324] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[10Dec2024 18:23:08.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -4.05050061278223,6.41905909710556,-16.129422842800523
