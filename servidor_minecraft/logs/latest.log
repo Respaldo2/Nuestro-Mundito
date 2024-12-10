@@ -1784,3 +1784,9 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [10Dec2024 17:48:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
 [10Dec2024 17:48:22.159] [Server thread/INFO] [Jade/]: Syncing config to Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721)
 [10Dec2024 17:49:36.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[10Dec2024 18:12:56.755] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[10Dec2024 18:12:56.760] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[10Dec2024 18:13:17.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[10Dec2024 18:13:39.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Father Vincent the Extra-Fishy'/10073, l='ServerLevel[world]', x=-683.46, y=70.00, z=4272.76] died: Father Vincent the Extra-Fishy withered away
+[10Dec2024 18:13:44.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel's heart was ruptured by Zombie
+[10Dec2024 18:13:44.324] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
