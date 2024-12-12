@@ -2865,3 +2865,24 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 18:07:42.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
 [12Dec2024 18:07:48.870] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
 [12Dec2024 18:07:52.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5906ms or 118 ticks behind
+[12Dec2024 18:08:11.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3396ms or 67 ticks behind
+[12Dec2024 18:08:34.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8590ms or 171 ticks behind
+[12Dec2024 18:09:33.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Dec2024 18:09:52.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Vex
+[12Dec2024 18:09:52.301] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[12Dec2024 18:09:58.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2463ms or 49 ticks behind
+[12Dec2024 18:10:16.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[12Dec2024 18:10:19.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Vex
+[12Dec2024 18:10:19.214] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[12Dec2024 18:10:38.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6355ms or 127 ticks behind
+[12Dec2024 18:10:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Vex
+[12Dec2024 18:10:47.889] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[12Dec2024 18:10:58.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5335ms or 106 ticks behind
+[12Dec2024 18:11:17.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12Dec2024 18:12:20.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Vex
+[12Dec2024 18:12:20.490] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[12Dec2024 18:12:24.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12Dec2024 18:16:42.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Vex
+[12Dec2024 18:16:42.717] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[12Dec2024 18:16:47.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[12Dec2024 18:18:20.245] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
