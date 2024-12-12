@@ -3050,3 +3050,49 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 19:38:13.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
 [12Dec2024 19:38:40.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11778ms or 235 ticks behind
 [12Dec2024 19:41:23.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[12Dec2024 19:41:41.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[12Dec2024 19:42:01.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5109ms or 102 ticks behind
+[12Dec2024 19:42:19.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3858ms or 77 ticks behind
+[12Dec2024 19:45:17.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -3.298691955873778,0.0,20.05929394114628
+[12Dec2024 19:45:21.756] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 19:45:29.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[12Dec2024 19:45:29.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -1.0766720663414162,-0.8806332829518055,18.494154540763702
+[12Dec2024 19:45:36.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 16.942343551550834,-2.6155508951730724,-3.532668237494363
+[12Dec2024 19:45:39.159] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 19:45:47.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3429ms or 68 ticks behind
+[12Dec2024 19:45:49.173] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id crittersandcompanions:jumping_spider
+[12Dec2024 19:45:58.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -11.610545650367044,-13.986060447418993,-0.7286885692128635
+[12Dec2024 19:46:05.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -17.846465253593124,-5.9413327982837245,-0.4190614094450211
+[12Dec2024 19:46:07.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5122ms or 102 ticks behind
+[12Dec2024 19:46:10.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -17.75024113615723,-2.323057282953968,2.6688960194678657
+[12Dec2024 19:46:18.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -17.827272445040535,2.0344032437404564,1.7572085382753357
+[12Dec2024 19:46:27.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4782ms or 95 ticks behind
+[12Dec2024 19:46:36.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -1.067297577432555,-10.510131492988236,-0.8213054680254572
+[12Dec2024 19:46:47.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4762ms or 95 ticks behind
+[12Dec2024 19:46:52.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -15.216566788027649,-9.281526772636667,4.665995737243065
+[12Dec2024 19:47:01.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -5.613485278796134,17.59418818869304,-3.8642789768227885
+[12Dec2024 19:47:09.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6909ms or 138 ticks behind
+[12Dec2024 19:47:14.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -15.26939025597403,-3.203948298361695,-10.503418401430281
+[12Dec2024 19:47:23.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -17.295471564012587,-3.510685669173796,-6.617217759796404
+[12Dec2024 19:47:34.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10164ms or 203 ticks behind
+[12Dec2024 19:47:54.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -0.7397350043249844,1.0,-10.137192704442896
+[12Dec2024 19:48:03.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -2.26178100676384,-9.689987698465956,-1.3964190167525885
+[12Dec2024 19:48:07.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17777ms or 355 ticks behind
+[12Dec2024 19:48:09.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 8.100690478312345,2.0,-6.650147023799036
+[12Dec2024 19:48:35.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13513ms or 270 ticks behind
+[12Dec2024 19:49:02.587] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-412}
+[12Dec2024 19:49:02.592] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-416}
+[12Dec2024 19:49:04.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13818ms or 276 ticks behind
+[12Dec2024 19:49:40.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -2.0204905849859642,1.756759288177264,-9.680370229043547
+[12Dec2024 19:49:40.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Dec2024 19:50:06.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10876ms or 217 ticks behind
+[12Dec2024 19:50:20.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 6.763023503484419,-2.2739260408205837,-16.440994849817343
+[12Dec2024 19:50:26.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 8.67638522928064,-2.5654997850009806,-14.837521878615462
+[12Dec2024 19:50:26.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4880ms or 97 ticks behind
+[12Dec2024 19:50:48.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7530ms or 150 ticks behind
+[12Dec2024 19:51:10.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Darkgospel: Location (-1868.5472248792648, 127.26173460483551, 4067.0) too far away from hit block BlockPos{x=-1868, y=126, z=4064}.
+[12Dec2024 19:51:10.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Darkgospel: Location (-1868.5472248792648, 127.26173460483551, 4067.0) too far away from hit block BlockPos{x=-1868, y=126, z=4064}.
+[12Dec2024 19:51:11.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Darkgospel: Location (-1868.5844039916992, 127.61301469802856, 4067.0) too far away from hit block BlockPos{x=-1868, y=126, z=4064}.
+[12Dec2024 19:51:11.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Darkgospel: Location (-1868.5844039916992, 127.61301469802856, 4067.0) too far away from hit block BlockPos{x=-1868, y=126, z=4064}.
+[12Dec2024 19:51:24.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[12Dec2024 19:51:48.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8785ms or 175 ticks behind
