@@ -2931,3 +2931,33 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 18:57:34.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/52573, l='ServerLevel[world]', x=-1345.98, y=220.41, z=4198.36] died: Undead Knight suffocated in a wall
 [12Dec2024 18:58:11.220] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
 [12Dec2024 18:58:40.178] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 19:00:58.821] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 19:02:14.316] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 19:03:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Proud Soul]
+[12Dec2024 19:03:18.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Kicked Namikaze: Kicked by an operator]
+[12Dec2024 19:03:19.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Kicked by an operator
+[12Dec2024 19:03:19.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[12Dec2024 19:03:31.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:60541] logged in with entity id 67355 at (-1289.5082873620693, 280.0, 4168.853397472247)
+[12Dec2024 19:03:31.318] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[12Dec2024 19:03:31.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[12Dec2024 19:03:31.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[12Dec2024 19:03:31.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[12Dec2024 19:03:31.328] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[12Dec2024 19:03:31.336] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[12Dec2024 19:03:31.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[12Dec2024 19:03:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[12Dec2024 19:03:31.486] [Server thread/INFO] [Jade/]: Syncing config to Namikaze (587b6240-39f1-3105-8383-bf74c073b79b)
+[12Dec2024 19:03:35.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[12Dec2024 19:03:53.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
+[12Dec2024 19:05:59.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[12Dec2024 19:08:19.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[12Dec2024 19:08:44.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10066ms or 201 ticks behind
+[12Dec2024 19:09:02.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[12Dec2024 19:09:16.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was shot by Bonescaller
+[12Dec2024 19:09:16.977] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:09:24.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[12Dec2024 19:10:05.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was shot by Skeleton
+[12Dec2024 19:10:05.748] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:10:12.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[12Dec2024 19:10:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was shot by Skeleton
+[12Dec2024 19:10:17.583] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved

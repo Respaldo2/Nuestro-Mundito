@@ -15126,18 +15126,6 @@
     },
     "done": true
   },
-  "stellarity:end_city/portable_storage": {
-    "criteria": {
-      "craft_shulker_box": "2024-12-12 18:42:58 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_ring_vision": {
-    "criteria": {
-      "gobber2_ring_vision": "2024-12-12 18:36:37 +0000"
-    },
-    "done": true
-  },
   "slashblade:movesets": {
     "criteria": {
       "crafting": "2024-12-12 18:01:43 +0000"
@@ -15150,15 +15138,33 @@
     },
     "done": true
   },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2024-12-12 18:02:33 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_nether": {
     "criteria": {
       "gobber2_ring_nether": "2024-12-12 18:36:30 +0000"
     },
     "done": true
   },
-  "slashblade:root": {
+  "gobber2:gobber2_ring_vision": {
     "criteria": {
-      "attackTheEntity": "2024-12-12 18:02:33 +0000"
+      "gobber2_ring_vision": "2024-12-12 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/portable_storage": {
+    "criteria": {
+      "craft_shulker_box": "2024-12-12 18:42:58 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2024-12-12 19:03:04 +0000"
     },
     "done": true
   },
