@@ -15126,6 +15126,12 @@
     },
     "done": true
   },
+  "stellarity:end_city/portable_storage": {
+    "criteria": {
+      "craft_shulker_box": "2024-12-12 18:42:58 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_vision": {
     "criteria": {
       "gobber2_ring_vision": "2024-12-12 18:36:37 +0000"

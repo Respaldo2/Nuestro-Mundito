@@ -18965,3 +18965,18 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 18:38:35.985] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
 [12Dec2024 18:38:57.176] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
 [12Dec2024 18:39:32.005] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:39:57.616] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:41:51.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 18:41:51.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 18:42:40.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:42:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Portable Storage]
+[12Dec2024 18:43:08.505] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:43:47.693] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:44:21.758] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:44:51.815] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:46:10.585] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:46:51.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 18:46:51.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 18:47:43.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:48:28.876] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:49:29.514] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
