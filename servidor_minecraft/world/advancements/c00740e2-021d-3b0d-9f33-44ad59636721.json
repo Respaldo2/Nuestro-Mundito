@@ -14405,6 +14405,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-12 20:31:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2024-12-12 20:06:26 +0000"
@@ -14426,6 +14432,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-12-12 20:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-12 20:31:58 +0000"
     },
     "done": true
   },
@@ -14525,6 +14537,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-12 20:31:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2024-12-12 20:04:49 +0000"
@@ -14573,6 +14591,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-12-12 20:31:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-12 20:04:49 +0000"
@@ -14618,6 +14642,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2024-12-12 20:04:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-12 20:31:58 +0000"
     },
     "done": true
   },
