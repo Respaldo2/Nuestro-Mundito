@@ -15126,6 +15126,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_vision": {
+    "criteria": {
+      "gobber2_ring_vision": "2024-12-12 18:36:37 +0000"
+    },
+    "done": true
+  },
   "slashblade:movesets": {
     "criteria": {
       "crafting": "2024-12-12 18:01:43 +0000"
@@ -15135,6 +15141,12 @@
   "slashblade:material/proudsoul_tiny": {
     "criteria": {
       "BrokenBlade": "2024-12-12 18:02:33 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_nether": {
+    "criteria": {
+      "gobber2_ring_nether": "2024-12-12 18:36:30 +0000"
     },
     "done": true
   },
