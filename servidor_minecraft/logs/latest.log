@@ -3096,3 +3096,61 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 19:51:11.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Darkgospel: Location (-1868.5844039916992, 127.61301469802856, 4067.0) too far away from hit block BlockPos{x=-1868, y=126, z=4064}.
 [12Dec2024 19:51:24.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
 [12Dec2024 19:51:48.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8785ms or 175 ticks behind
+[12Dec2024 19:52:36.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4028ms or 80 ticks behind
+[12Dec2024 19:52:58.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6982ms or 139 ticks behind
+[12Dec2024 19:53:18.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[12Dec2024 19:53:43.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10353ms or 207 ticks behind
+[12Dec2024 19:54:05.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6839ms or 136 ticks behind
+[12Dec2024 19:54:26.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5366ms or 107 ticks behind
+[12Dec2024 19:54:49.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8148ms or 162 ticks behind
+[12Dec2024 19:55:12.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7865ms or 157 ticks behind
+[12Dec2024 19:55:40.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[12Dec2024 19:55:44.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17665ms or 353 ticks behind
+[12Dec2024 19:55:45.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[12Dec2024 19:56:00.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[12Dec2024 19:56:20.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20588ms or 411 ticks behind
+[12Dec2024 19:56:24.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 10.124524198898598,0.0,-0.28228153383861354
+[12Dec2024 19:56:44.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9576ms or 191 ticks behind
+[12Dec2024 19:56:54.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -7.576661488186346,-15.476602415538977,2.382907294818324
+[12Dec2024 19:57:08.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8407ms or 168 ticks behind
+[12Dec2024 19:57:14.398] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[12Dec2024 19:57:14.401] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[12Dec2024 19:57:27.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 1.4842429713776255,-3.7334170717753636,-17.21629098612084
+[12Dec2024 19:57:47.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24232ms or 484 ticks behind
+[12Dec2024 19:57:48.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -6.89419112247765,2.384764871590505,-16.636126261520985
+[12Dec2024 19:57:51.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -7.501214558530364,-1.2567816858204424,-15.93896657104051
+[12Dec2024 19:57:56.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -7.780013493658998,-0.8890341703807394,-16.531401640575496
+[12Dec2024 19:58:01.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -5.40594748432045,-1.27173368866994,-16.92893086193135
+[12Dec2024 19:58:01.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 16.708940761490794,-5.59649712116456,3.192532638515331
+[12Dec2024 19:58:05.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! 11.506893341742625,1.8091322203344475,13.766940252166933
+[12Dec2024 19:58:06.095] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id crittersandcompanions:jumping_spider
+[12Dec2024 19:58:08.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -18.01084658340278,1.1339820419531748,2.70700090603259
+[12Dec2024 19:58:13.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -14.002685686423092,1.569302916438744,10.686099084092348
+[12Dec2024 19:58:16.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -12.756715286940107,1.2539811131327383,12.040316785355117
+[12Dec2024 19:58:16.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -1.9740248944522136,-3.2041056413482494,9.868452840610189
+[12Dec2024 19:58:19.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -12.759986748857273,-4.005187170460772,13.4509580611184
+[12Dec2024 19:58:22.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -1.5230140453654712,-17.550079869701932,5.582743975885933
+[12Dec2024 19:58:22.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -12.090164728609352,-1.886094944897792,12.943813642931218
+[12Dec2024 19:58:25.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -4.667639796135745,-4.369176652721819,16.652014375675208
+[12Dec2024 19:58:25.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -12.599189624133942,-3.169958041072391,13.700553926779321
+[12Dec2024 19:58:30.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -12.66430788466505,-2.193843421663672,13.971521628485789
+[12Dec2024 19:58:30.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -2.6635734909837083,-3.1344212285297743,17.424326821459545
+[12Dec2024 19:58:30.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27717ms or 554 ticks behind
+[12Dec2024 19:58:36.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -15.687741457378024,-3.693261225826234,8.646855929821868
+[12Dec2024 19:58:44.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! 8.171925409652658,-9.117217619217541,12.817189148481702
+[12Dec2024 19:58:44.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -2.3166364691633134,-5.230967426293404,16.8992537467675
+[12Dec2024 19:58:51.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6080ms or 121 ticks behind
+[12Dec2024 19:59:06.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -0.6124228979144846,0.0,-10.865857844131824
+[12Dec2024 19:59:09.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -16.403025790057427,4.747375065088349,-6.412362793864304
+[12Dec2024 19:59:09.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -0.3429057174830632,1.4215999984741217,-10.368991658368941
+[12Dec2024 19:59:17.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11041ms or 220 ticks behind
+[12Dec2024 19:59:37.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4889ms or 97 ticks behind
+[12Dec2024 19:59:46.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 9.886252205356186,-3.231523797587016,0.6106287817719931
+[12Dec2024 20:00:01.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9536ms or 190 ticks behind
+[12Dec2024 20:00:18.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[12Dec2024 20:00:40.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7008ms or 140 ticks behind
+[12Dec2024 20:01:51.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[12Dec2024 20:02:09.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
+[12Dec2024 20:02:14.355] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[12Dec2024 20:02:14.356] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[12Dec2024 20:02:26.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
