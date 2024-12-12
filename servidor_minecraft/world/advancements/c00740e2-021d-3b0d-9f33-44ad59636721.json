@@ -14585,6 +14585,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-12 20:14:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2024-12-12 20:04:49 +0000"
@@ -14648,6 +14654,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-12-12 20:06:26 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2024-12-12 20:20:58 +0000"
     },
     "done": true
   },
