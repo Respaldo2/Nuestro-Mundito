@@ -20314,3 +20314,502 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 19:20:13.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
 [12Dec2024 19:20:22.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
 [12Dec2024 19:20:28.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
+[12Dec2024 19:21:06.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12Dec2024 19:21:29.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8127ms or 162 ticks behind
+[12Dec2024 19:21:30.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[12Dec2024 19:21:30.615] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/82071, l='ServerLevel[world]', x=1515.31, y=5.00, z=8533.58, removed=DISCARDED]
+[12Dec2024 19:21:32.959] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/82071, l='ServerLevel[world]', x=1515.31, y=5.00, z=8533.58, removed=DISCARDED]
+[12Dec2024 19:21:36.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[12Dec2024 19:21:48.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4263ms or 85 ticks behind
+[12Dec2024 19:22:01.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie
+[12Dec2024 19:22:01.320] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:1415, y:-32, z:8496, dim:minecraft:overworld]
+[12Dec2024 19:22:01.351] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:22:03.807] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[12Dec2024 19:22:03.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 19:22:03.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 19:22:04.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[12Dec2024 19:22:04.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[12Dec2024 19:22:07.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[12Dec2024 19:22:22.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:22:26.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4399ms or 87 ticks behind
+[12Dec2024 19:22:59.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Dec2024 19:23:17.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:23:17.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 19:23:17.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:23:17.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:23:17.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 19:23:17.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 19:23:17.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:23:17.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:23:17.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:23:17.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:23:17.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:23:17.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:23:17.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:23:17.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:23:17.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:23:17.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 19:23:17.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:23:17.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:23:17.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:23:17.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:23:17.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:23:17.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:23:17.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 19:23:17.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 19:23:17.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 19:23:17.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[12Dec2024 19:23:19.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5496ms or 109 ticks behind
+[12Dec2024 19:23:26.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[12Dec2024 19:23:38.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4121ms or 82 ticks behind
+[12Dec2024 19:23:48.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:23:52.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 2.861179884198009,0.4911347788839179,-9.863527143372266
+[12Dec2024 19:23:52.558] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[12Dec2024 19:24:00.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6635ms or 132 ticks behind
+[12Dec2024 19:24:08.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 19:24:08.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 19:24:20.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5539ms or 110 ticks behind
+[12Dec2024 19:24:38.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[12Dec2024 19:24:56.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
+[12Dec2024 19:26:51.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[12Dec2024 19:26:52.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[12Dec2024 19:28:09.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1547, y=12, z=8189} BlockPos{x=1547, y=13, z=8189}
+[12Dec2024 19:28:30.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was blown up by Bomber
+[12Dec2024 19:28:30.084] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:1556, y:18, z:8169, dim:minecraft:overworld]
+[12Dec2024 19:28:30.104] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:28:32.857] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[12Dec2024 19:28:33.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 19:28:33.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 19:28:33.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[12Dec2024 19:28:33.658] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[12Dec2024 19:28:35.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12Dec2024 19:28:39.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:28:41.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:28:42.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[12Dec2024 19:28:45.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[12Dec2024 19:28:50.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[12Dec2024 19:28:53.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 2.379156878738513,1.4938648978937614,-9.636396968459849
+[12Dec2024 19:28:54.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[12Dec2024 19:28:54.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:28:58.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[12Dec2024 19:29:02.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11914ms or 238 ticks behind
+[12Dec2024 19:29:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was blown up by Skeleton Creeper
+[12Dec2024 19:29:04.875] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:1564, y:23, z:8129, dim:minecraft:overworld]
+[12Dec2024 19:29:04.887] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:29:17.004] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[12Dec2024 19:29:17.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 19:29:17.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 19:29:17.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[12Dec2024 19:29:17.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[12Dec2024 19:29:23.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:29:24.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[12Dec2024 19:29:29.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:29:29.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[12Dec2024 19:29:36.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[12Dec2024 19:29:39.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 19:29:39.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 19:29:42.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[12Dec2024 19:29:44.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[12Dec2024 19:29:45.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[12Dec2024 19:29:46.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:29:46.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[12Dec2024 19:29:46.800] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_10
+[12Dec2024 19:29:46.940] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[12Dec2024 19:29:46.955] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[12Dec2024 19:29:46.963] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[12Dec2024 19:29:49.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9716ms or 194 ticks behind
+[12Dec2024 19:29:51.176] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[12Dec2024 19:29:51.190] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[12Dec2024 19:29:51.217] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[12Dec2024 19:29:56.411] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of world:tree_elf_houses
+[12Dec2024 19:29:56.542] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of world:dryad_houseee
+[12Dec2024 19:29:57.251] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[12Dec2024 19:29:57.509] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of world:mushroom3
+[12Dec2024 19:29:57.526] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[12Dec2024 19:30:03.596] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of world:big_root
+[12Dec2024 19:30:03.802] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[12Dec2024 19:30:03.803] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[12Dec2024 19:30:03.803] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[12Dec2024 19:30:03.803] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[12Dec2024 19:30:03.804] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[12Dec2024 19:30:03.805] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[12Dec2024 19:30:03.805] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[12Dec2024 19:30:03.805] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[12Dec2024 19:30:03.805] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[12Dec2024 19:30:03.805] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[12Dec2024 19:30:03.806] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[12Dec2024 19:30:03.821] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[12Dec2024 19:30:03.823] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@2035d65b
+[12Dec2024 19:30:03.823] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[12Dec2024 19:30:03.862] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[12Dec2024 19:30:03.863] [Worker-Main-31/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[12Dec2024 19:30:13.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9844ms or 196 ticks behind
+[12Dec2024 19:30:23.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 1.191876441424938,1.024424088213678,10.005910786177083
+[12Dec2024 19:30:25.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:30:32.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
+[12Dec2024 19:30:44.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[12Dec2024 19:30:48.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 19:30:52.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[12Dec2024 19:30:52.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:30:52.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:30:52.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:30:52.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:30:52.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:30:52.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:30:52.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:30:52.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:30:52.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:30:52.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:30:52.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:30:52.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 19:30:52.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:30:52.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[12Dec2024 19:30:52.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:30:52.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:30:52.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:30:52.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:30:52.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 19:30:52.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 19:30:52.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 19:30:52.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:30:52.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 19:30:52.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 19:30:52.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:30:52.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[12Dec2024 19:30:52.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:30:56.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:30:59.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12083ms or 241 ticks behind
+[12Dec2024 19:31:00.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[12Dec2024 19:31:01.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:31:01.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 19:31:01.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:31:01.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:31:01.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:31:01.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:31:01.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:31:01.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:31:01.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:31:01.615] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 19:31:01.617] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:31:01.619] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:31:01.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[12Dec2024 19:31:01.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:31:01.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:31:01.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:31:01.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 19:31:01.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:31:01.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:31:01.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:31:01.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:31:01.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:31:01.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 19:31:01.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:31:01.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[12Dec2024 19:31:01.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 19:31:17.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3240ms or 64 ticks behind
+[12Dec2024 19:31:22.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 19:31:22.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 19:31:24.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[12Dec2024 19:31:24.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[12Dec2024 19:31:37.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5127ms or 102 ticks behind
+[12Dec2024 19:32:10.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[12Dec2024 19:32:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie
+[12Dec2024 19:32:54.183] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:1656, y:6, z:8249, dim:minecraft:overworld]
+[12Dec2024 19:32:54.200] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:32:56.041] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[12Dec2024 19:33:04.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie
+[12Dec2024 19:33:04.927] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:1656, y:6, z:8249, dim:minecraft:overworld]
+[12Dec2024 19:33:04.956] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:33:06.294] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[12Dec2024 19:33:11.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[12Dec2024 19:33:11.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[12Dec2024 19:33:12.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[12Dec2024 19:33:12.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:33:13.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[12Dec2024 19:33:25.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 7.574721909228629,0.2468000194787976,7.035697659792277
+[12Dec2024 19:33:25.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:33:27.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[12Dec2024 19:33:27.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:33:29.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 7.321479414164514,0.0,7.232638796300307
+[12Dec2024 19:33:35.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8670ms or 173 ticks behind
+[12Dec2024 19:33:36.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[12Dec2024 19:33:38.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:33:38.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 19:33:38.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 19:33:38.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:33:38.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 19:33:38.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:33:38.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 19:33:38.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:33:38.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:33:38.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:33:38.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 19:33:38.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:33:38.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 19:33:38.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 19:33:38.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:33:38.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:33:38.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:33:38.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:33:38.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:33:38.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:33:38.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:33:38.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 19:33:38.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:33:38.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[12Dec2024 19:33:38.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:33:38.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:33:38.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:33:40.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:33:40.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[12Dec2024 19:33:43.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[12Dec2024 19:33:45.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -7.989474226046923,2.824576704047912,-5.616904962795161
+[12Dec2024 19:33:45.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[12Dec2024 19:33:50.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:33:50.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 19:33:50.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:33:50.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:33:50.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 19:33:50.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:33:50.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:33:50.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:33:50.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 19:33:50.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:33:50.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:33:50.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:33:50.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:33:50.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:33:50.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:33:50.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:33:50.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 19:33:50.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:33:50.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:33:50.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 19:33:50.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:33:50.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:33:50.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:33:50.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[12Dec2024 19:33:50.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 19:33:50.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:33:59.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[12Dec2024 19:33:59.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[12Dec2024 19:33:59.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[12Dec2024 19:33:59.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[12Dec2024 19:33:59.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[12Dec2024 19:34:04.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14594ms or 291 ticks behind
+[12Dec2024 19:34:06.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 19:34:06.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[12Dec2024 19:34:06.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[12Dec2024 19:34:28.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:34:56.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:34:56.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:34:56.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:34:56.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 19:34:56.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 19:34:56.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:34:56.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:34:56.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:34:56.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:34:56.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:34:56.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 19:34:56.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 19:34:56.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[12Dec2024 19:34:56.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 19:34:56.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 19:34:56.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:34:56.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:34:56.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:34:56.066] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:34:56.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:34:56.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:34:56.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:34:56.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:34:56.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 19:34:56.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:34:56.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:34:56.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[12Dec2024 19:34:56.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 19:34:56.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[12Dec2024 19:34:56.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[12Dec2024 19:34:56.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[12Dec2024 19:34:56.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[12Dec2024 19:34:56.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:34:57.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[12Dec2024 19:34:58.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 9.85978769586768,0.0,-2.427077382499192
+[12Dec2024 19:34:59.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[12Dec2024 19:35:00.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[12Dec2024 19:35:02.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:35:02.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:35:02.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:35:02.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:35:02.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:35:02.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:35:02.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:35:02.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:35:02.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 19:35:02.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:35:02.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:35:02.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:35:02.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:35:02.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 19:35:02.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 19:35:02.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:35:02.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:35:02.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 19:35:02.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:35:02.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 19:35:02.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:35:02.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:35:02.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:35:02.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 19:35:02.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:35:02.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:35:09.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[12Dec2024 19:35:17.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[12Dec2024 19:35:35.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[12Dec2024 19:35:40.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[12Dec2024 19:35:46.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[12Dec2024 19:35:51.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 19:35:51.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 19:35:51.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 5.0,-5.046599998474122,7.191102658282034
+[12Dec2024 19:35:51.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[12Dec2024 19:36:02.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:36:02.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[12Dec2024 19:36:10.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:12.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:17.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:17.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:18.280] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:18.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:20.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[12Dec2024 19:36:22.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 10.167178023803672,0.0,-0.32678814752944163
+[12Dec2024 19:36:22.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[12Dec2024 19:36:22.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:36:22.621] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[12Dec2024 19:36:22.621] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[12Dec2024 19:36:22.621] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[12Dec2024 19:36:22.621] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[12Dec2024 19:36:22.622] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[12Dec2024 19:36:22.628] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[12Dec2024 19:36:22.628] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[12Dec2024 19:36:22.628] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[12Dec2024 19:36:22.629] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[12Dec2024 19:36:22.629] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[12Dec2024 19:36:22.631] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[12Dec2024 19:36:22.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[12Dec2024 19:36:22.645] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@2035d65b
+[12Dec2024 19:36:22.646] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[12Dec2024 19:36:22.679] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[12Dec2024 19:36:22.680] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[12Dec2024 19:36:25.840] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:27.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:29.271] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:29.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:32.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:32.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:48.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[12Dec2024 19:36:52.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[12Dec2024 19:36:56.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -4.668899826705228,0.0625,-9.224862752792433
+[12Dec2024 19:37:08.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5426ms or 108 ticks behind
+[12Dec2024 19:37:12.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:37:18.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to Namikaze]
+[12Dec2024 19:38:12.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[12Dec2024 19:38:13.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[12Dec2024 19:38:16.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 19:38:16.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:38:16.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:38:16.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:38:16.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:38:16.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:38:16.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:38:16.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:38:16.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:38:16.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:38:16.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:38:16.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:38:16.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 19:38:16.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:38:16.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[12Dec2024 19:38:16.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:38:16.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:38:16.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:38:16.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:38:16.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 19:38:16.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 19:38:16.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 19:38:16.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:38:16.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 19:38:16.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 19:38:16.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:38:17.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[12Dec2024 19:38:17.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:38:17.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[12Dec2024 19:38:23.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 19:38:24.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[12Dec2024 19:38:24.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[12Dec2024 19:38:26.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[12Dec2024 19:38:27.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:38:27.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[12Dec2024 19:38:27.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:38:27.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:38:27.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:38:27.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:38:27.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:38:27.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:38:27.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:38:27.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 19:38:27.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:38:27.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:38:27.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[12Dec2024 19:38:27.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:38:27.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:38:27.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:38:27.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 19:38:27.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:38:27.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:38:27.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:38:27.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:38:27.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:38:27.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 19:38:27.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:38:27.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[12Dec2024 19:38:27.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 19:38:40.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11778ms or 235 ticks behind
+[12Dec2024 19:41:15.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 19:41:15.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 19:41:18.615] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[12Dec2024 19:41:23.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[12Dec2024 19:41:23.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 19:41:23.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 19:41:23.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 19:41:23.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 19:41:23.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 19:41:23.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 19:41:23.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 19:41:23.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 19:41:23.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 19:41:23.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 19:41:23.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 19:41:23.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 19:41:23.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 19:41:23.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 19:41:23.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 19:41:23.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 19:41:23.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 19:41:23.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 19:41:23.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 19:41:23.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 19:41:23.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 19:41:23.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 19:41:23.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 19:41:23.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[12Dec2024 19:41:23.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 19:41:23.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 19:41:29.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[12Dec2024 19:41:29.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[12Dec2024 19:41:29.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[12Dec2024 19:41:29.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[12Dec2024 19:41:29.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[12Dec2024 19:41:31.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 19:41:31.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[12Dec2024 19:41:31.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b

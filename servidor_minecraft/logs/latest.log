@@ -2978,3 +2978,75 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 19:20:10.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10910ms or 218 ticks behind
 [12Dec2024 19:20:13.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 9.036965091756201,0.0,-5.220035768274101
 [12Dec2024 19:20:28.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
+[12Dec2024 19:21:06.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12Dec2024 19:21:29.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8127ms or 162 ticks behind
+[12Dec2024 19:21:30.615] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/82071, l='ServerLevel[world]', x=1515.31, y=5.00, z=8533.58, removed=DISCARDED]
+[12Dec2024 19:21:32.959] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/82071, l='ServerLevel[world]', x=1515.31, y=5.00, z=8533.58, removed=DISCARDED]
+[12Dec2024 19:21:48.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4263ms or 85 ticks behind
+[12Dec2024 19:22:01.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie
+[12Dec2024 19:22:01.351] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:22:07.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[12Dec2024 19:22:26.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4399ms or 87 ticks behind
+[12Dec2024 19:22:59.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Dec2024 19:23:19.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5496ms or 109 ticks behind
+[12Dec2024 19:23:38.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4121ms or 82 ticks behind
+[12Dec2024 19:23:52.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 2.861179884198009,0.4911347788839179,-9.863527143372266
+[12Dec2024 19:23:52.558] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[12Dec2024 19:24:00.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6635ms or 132 ticks behind
+[12Dec2024 19:24:20.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5539ms or 110 ticks behind
+[12Dec2024 19:24:38.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[12Dec2024 19:24:56.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
+[12Dec2024 19:28:09.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1547, y=12, z=8189} BlockPos{x=1547, y=13, z=8189}
+[12Dec2024 19:28:30.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was blown up by Bomber
+[12Dec2024 19:28:30.104] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:28:35.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12Dec2024 19:28:53.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 2.379156878738513,1.4938648978937614,-9.636396968459849
+[12Dec2024 19:29:02.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11914ms or 238 ticks behind
+[12Dec2024 19:29:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was blown up by Skeleton Creeper
+[12Dec2024 19:29:04.887] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:29:24.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[12Dec2024 19:29:49.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9716ms or 194 ticks behind
+[12Dec2024 19:30:13.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9844ms or 196 ticks behind
+[12Dec2024 19:30:23.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 1.191876441424938,1.024424088213678,10.005910786177083
+[12Dec2024 19:30:32.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
+[12Dec2024 19:30:59.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12083ms or 241 ticks behind
+[12Dec2024 19:31:17.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3240ms or 64 ticks behind
+[12Dec2024 19:31:37.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5127ms or 102 ticks behind
+[12Dec2024 19:32:10.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[12Dec2024 19:32:54.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie
+[12Dec2024 19:32:54.200] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:33:04.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie
+[12Dec2024 19:33:04.956] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[12Dec2024 19:33:11.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[12Dec2024 19:33:25.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 7.574721909228629,0.2468000194787976,7.035697659792277
+[12Dec2024 19:33:29.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 7.321479414164514,0.0,7.232638796300307
+[12Dec2024 19:33:35.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8670ms or 173 ticks behind
+[12Dec2024 19:33:45.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -7.989474226046923,2.824576704047912,-5.616904962795161
+[12Dec2024 19:34:04.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14594ms or 291 ticks behind
+[12Dec2024 19:34:58.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 9.85978769586768,0.0,-2.427077382499192
+[12Dec2024 19:34:59.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[12Dec2024 19:35:17.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[12Dec2024 19:35:51.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 5.0,-5.046599998474122,7.191102658282034
+[12Dec2024 19:35:51.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[12Dec2024 19:36:10.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:12.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:17.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:17.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:18.280] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:18.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:22.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 10.167178023803672,0.0,-0.32678814752944163
+[12Dec2024 19:36:22.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[12Dec2024 19:36:25.840] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:27.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:29.271] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:29.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:32.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:32.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:36:48.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[12Dec2024 19:36:56.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -4.668899826705228,0.0625,-9.224862752792433
+[12Dec2024 19:37:08.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5426ms or 108 ticks behind
+[12Dec2024 19:37:12.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[12Dec2024 19:37:18.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to Namikaze]
+[12Dec2024 19:38:13.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[12Dec2024 19:38:40.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11778ms or 235 ticks behind
+[12Dec2024 19:41:23.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
