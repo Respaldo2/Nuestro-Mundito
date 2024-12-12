@@ -14315,5 +14315,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-12 18:20:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-12 18:20:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

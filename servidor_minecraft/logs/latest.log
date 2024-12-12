@@ -2886,3 +2886,13 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 18:16:42.717] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [12Dec2024 18:16:47.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
 [12Dec2024 18:18:20.245] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[12Dec2024 18:18:50.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[12Dec2024 18:19:10.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5705ms or 114 ticks behind
+[12Dec2024 18:20:45.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Brodarkdarsh the Scary'/20312, l='ServerLevel[world]', x=3402.30, y=36.00, z=-2636.63] died: Brodarkdarsh the Scary was frozen to death by Namikaze
+[12Dec2024 18:23:22.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10205ms or 204 ticks behind
+[12Dec2024 18:23:40.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
+[12Dec2024 18:26:30.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[12Dec2024 18:26:48.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[12Dec2024 18:27:21.667] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:28:13.572] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:28:41.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind

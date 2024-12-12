@@ -18829,3 +18829,121 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [12Dec2024 18:17:08.648] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
 [12Dec2024 18:17:08.648] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
 [12Dec2024 18:18:20.245] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_boots/apotheosis:mythic/ABILITY/0.3!
+[12Dec2024 18:18:50.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[12Dec2024 18:19:10.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5705ms or 114 ticks behind
+[12Dec2024 18:20:33.403] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.404] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.404] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.404] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.404] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.404] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.404] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.404] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.407] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.407] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.407] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.407] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.407] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.408] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.408] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.408] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.409] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.409] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.409] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.409] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.409] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.409] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.409] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:33.409] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[12Dec2024 18:20:45.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Brodarkdarsh the Scary'/20312, l='ServerLevel[world]', x=3402.30, y=36.00, z=-2636.63] died: Brodarkdarsh the Scary was frozen to death by Namikaze
+[12Dec2024 18:20:45.112] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[12Dec2024 18:20:45.114] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[12Dec2024 18:21:29.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 18:21:29.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 18:23:12.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[12Dec2024 18:23:12.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[12Dec2024 18:23:12.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[12Dec2024 18:23:12.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[12Dec2024 18:23:12.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 18:23:12.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 18:23:12.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 18:23:12.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 18:23:12.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 18:23:12.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 18:23:12.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 18:23:12.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 18:23:12.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 18:23:12.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 18:23:12.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[12Dec2024 18:23:12.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 18:23:12.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 18:23:12.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 18:23:12.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 18:23:12.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[12Dec2024 18:23:12.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 18:23:12.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 18:23:12.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 18:23:12.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 18:23:12.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 18:23:12.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[12Dec2024 18:23:12.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 18:23:12.593] [Worker-Main-31/DEBUG] [ModernFix/]: Structure world:insane_tree is being run through DFU (hash 62b70e3776d78f7ecfebea4dc90caff84e21ccf9ec99fe943d0db13677cecba2), this will cause launch time delays
+[12Dec2024 18:23:13.341] [Worker-Main-31/DEBUG] [ModernFix/]: Structure world:big_root is being run through DFU (hash 50208ee5da2714febcd919f3380e7440ab4bbcc75eba9fc43cf0ae424042ce61), this will cause launch time delays
+[12Dec2024 18:23:13.542] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[12Dec2024 18:23:13.577] [Worker-Main-31/DEBUG] [ModernFix/]: Structure world:dryad_houseee is being run through DFU (hash fe36f8f6172e101e9f410537d729e0d4f55b38588350a1e7c60178d9edd20e00), this will cause launch time delays
+[12Dec2024 18:23:13.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[12Dec2024 18:23:13.951] [Worker-Main-31/DEBUG] [ModernFix/]: Structure world:mushroom3 is being run through DFU (hash 08af4765b50e7ff6075617b97409480e86cf68bd10c7301c25de608e754e17a9), this will cause launch time delays
+[12Dec2024 18:23:14.133] [Worker-Main-31/DEBUG] [ModernFix/]: Structure world:tree_elf_houses is being run through DFU (hash 5866bfaf75232460edfabd59770d021f5b89a3b99c3dac7a2b1824f7b97f2fb5), this will cause launch time delays
+[12Dec2024 18:23:14.515] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[12Dec2024 18:23:15.214] [Worker-Main-31/DEBUG] [ModernFix/]: Structure world:goblin_houses1111 is being run through DFU (hash 38ad937ec706374145e3ddc5fd216a9d05c24f18130fa3ec4bb1f40fe6cc29ff), this will cause launch time delays
+[12Dec2024 18:23:15.267] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[12Dec2024 18:23:15.329] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:camp
+[12Dec2024 18:23:15.440] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[12Dec2024 18:23:15.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[12Dec2024 18:23:15.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:chest
+[12Dec2024 18:23:18.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[12Dec2024 18:23:19.153] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of plenty_of_golems:the_first_of_sand_ruins
+[12Dec2024 18:23:19.943] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[12Dec2024 18:23:22.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10205ms or 204 ticks behind
+[12Dec2024 18:23:27.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[12Dec2024 18:23:27.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[12Dec2024 18:23:27.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[12Dec2024 18:23:27.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[12Dec2024 18:23:27.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[12Dec2024 18:23:27.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[12Dec2024 18:23:27.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[12Dec2024 18:23:27.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[12Dec2024 18:23:27.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[12Dec2024 18:23:27.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[12Dec2024 18:23:27.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[12Dec2024 18:23:27.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[12Dec2024 18:23:27.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[12Dec2024 18:23:27.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[12Dec2024 18:23:27.323] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[12Dec2024 18:23:27.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[12Dec2024 18:23:27.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[12Dec2024 18:23:27.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[12Dec2024 18:23:27.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[12Dec2024 18:23:27.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[12Dec2024 18:23:27.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[12Dec2024 18:23:27.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[12Dec2024 18:23:27.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[12Dec2024 18:23:27.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[12Dec2024 18:23:27.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[12Dec2024 18:23:27.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[12Dec2024 18:23:32.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[12Dec2024 18:23:32.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[12Dec2024 18:23:32.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[12Dec2024 18:23:32.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[12Dec2024 18:23:32.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[12Dec2024 18:23:33.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[12Dec2024 18:23:33.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[12Dec2024 18:23:34.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 18:23:40.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
+[12Dec2024 18:26:30.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[12Dec2024 18:26:46.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 18:26:47.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 18:26:48.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[12Dec2024 18:27:21.667] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:28:13.572] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/2616, l='ServerLevel[world]', x=-662.83, y=34.08, z=4411.13, removed=DISCARDED]
+[12Dec2024 18:28:41.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
